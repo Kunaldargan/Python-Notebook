@@ -1,0 +1,11 @@
+pip install gdown
+2 ways
+Go to file/folder -> copy sharing link
+gdown <link>
+-> Will output the correct link to be used.
+Or
+go to download anyway page
+copy link address of download
+gdown <link>
+
+It works. Thankyou
